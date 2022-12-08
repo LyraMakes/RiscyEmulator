@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiscyEmulator", "RiscyEmulator\RiscyEmulator.csproj", "{7B17C8CD-9A7C-47FD-9D8A-D46EB4C4609C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiscySimulator", "RiscySimulator\RiscySimulator.csproj", "{4F81D46F-2B9D-4939-B39A-492A319DAE3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiscyLogging", "RiscyLogging\RiscyLogging.csproj", "{D4A5CC28-993B-48FD-AC70-BAF0EC157665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiscyCore", "RiscyCore\RiscyCore.csproj", "{32647D53-E52A-4B83-8269-4EA0EF378674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B17C8CD-9A7C-47FD-9D8A-D46EB4C4609C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B17C8CD-9A7C-47FD-9D8A-D46EB4C4609C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B17C8CD-9A7C-47FD-9D8A-D46EB4C4609C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B17C8CD-9A7C-47FD-9D8A-D46EB4C4609C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F81D46F-2B9D-4939-B39A-492A319DAE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F81D46F-2B9D-4939-B39A-492A319DAE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F81D46F-2B9D-4939-B39A-492A319DAE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F81D46F-2B9D-4939-B39A-492A319DAE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4A5CC28-993B-48FD-AC70-BAF0EC157665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A5CC28-993B-48FD-AC70-BAF0EC157665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A5CC28-993B-48FD-AC70-BAF0EC157665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A5CC28-993B-48FD-AC70-BAF0EC157665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32647D53-E52A-4B83-8269-4EA0EF378674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32647D53-E52A-4B83-8269-4EA0EF378674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32647D53-E52A-4B83-8269-4EA0EF378674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32647D53-E52A-4B83-8269-4EA0EF378674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
